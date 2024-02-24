@@ -1,5 +1,3 @@
 Currently there are some thieves who are editing the copyright of the source code and distributing it.
 [!] The source code should only be downloaded from the official github page: https://github.com/ntkhang03/Goat-Bot-V2
 [!] Thank you for using the project. Project created by ntkhang03 (https://github.com/ntkhang03)
--------------------
-🎊🎊 HAPPY LUNAR YEAR 2024 ─=≡Σ((( つ•̀ω•́)つ 🎊🎊
